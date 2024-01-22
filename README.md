@@ -1,5 +1,6 @@
 # ML Models Predicting Cooking Durations of Different Recipes
-Seth Ng & Wong Li Sean
+- Li Sean Wong
+- Seth Ng
 
 ## Summary
 This project aims to dive into the different types of supervised Machine Learning models, how the differ from one another, how they work, and how one may be more beneficial in certain sitautions than others. The case used was for the models to predict the cooking duration labels (quick, medium, slow) of different recipes. The datasets provided included i) the name of the dish, ii) the number of steps in the recipe, iii) the number of ingredients, iv) the list of ingredients, and v) the steps taken. Each model took in a feature list which includes the number of steps & ingredients and the Doc2Vec features (more information in the 'data' folder's README) provided as well. The training set also included the actual duration label for its dishes.
